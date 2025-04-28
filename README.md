@@ -13,7 +13,7 @@
 - 🔨 : Skilled in ArcGIS, QGIS, Civil 3D, AutoCAD, Python (Geospatial) and Drone Operations.
 - 🎯 : Currently working at AFRY South-East Asia Ltd.
 - 🎨 : Passionate about creating Terrain Art Maps, 3D maps, Geospatial Visualizations and exploring data-driven insights through advanced data analysis techniques.
-- 🔍 : Dedicated to extracting meaningful patterns from spatial and environmental data.
+- 🔍 : Focused on finding useful insights from spatial and environmental data.
 
 ---
 ## Tools & Technologies 🛠️ 
