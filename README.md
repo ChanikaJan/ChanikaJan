@@ -31,7 +31,7 @@
 ## Latest Projects 🏆
 - 🗺️ [My-Portfolio](https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio) : Civil and GIS engineering portfolio.
 - 🗄️ [Intro-SQLite](https://github.com/ChanikaJan/Intro-SQLite) : Fundamentals of SQLite. 
-- 🛰️ [GeoPython](https://github.com/ChanikaJan/GeoPython) : Geospatial analysis with Python.
+- 🛰️ [GeoPython](https://github.com/ChanikaJan/GeoPython) : Working with Geospatial Data in Python.
 - 📊 [Data-science-projects-python](https://github.com/ChanikaJan/data-science-projects-python) : Python data science projects.
 
 ## How to Reach Me 📨
