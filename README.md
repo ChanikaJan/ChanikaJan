@@ -24,9 +24,9 @@
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-lightgrey?style=flat&logo=postgresql)
 
 ##  Current Focus 🚀 
-- 🌊 Advanced GIS Modeling and Hydrological Analysis
-- 🛰️ Improving Python skills for Geospatial Data Science
-- 📊 Exploring Data Science Techniques 
+- 🌊 Advanced GIS Modeling and Hydrological Analysis.
+- 🛰️ Improving Python skills for Geospatial Data Science.
+- 📊 Exploring Data Science Techniques. 
 
 ## Latest Projects 🏆
 - 🗺️ [My-Portfolio](https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio) : Civil and GIS engineering portfolio.
