@@ -11,7 +11,6 @@
 - 🏠 : Based in Thailand
 - ⚡ : Specializing in Hydropower, Renewable Energy, GIS Analysis, Remote Sensing and CAD Design.
 - 🔨 : Skilled in ArcGIS, QGIS, Civil 3D, AutoCAD, Python (Geospatial) and Drone Operations.
-- 🎯 : Currently working at AFRY South-East Asia Ltd.
 - 🎨 : Passionate about creating Terrain Art Maps, 3D maps, Geospatial Visualizations and exploring data-driven insights through advanced data analysis techniques.
 - 🔍 : Focused on finding useful insights from spatial and environmental data.
 
