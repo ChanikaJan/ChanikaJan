@@ -32,7 +32,7 @@
 - 🗄️ [Intro-SQLite](https://github.com/ChanikaJan/Intro-SQLite) : Fundamentals of SQLite. 
 - 🛰️ [GeoPython](https://github.com/ChanikaJan/GeoPython) : Working with Geospatial Data in Python.
 - 📊 [Data-science-projects-python](https://github.com/ChanikaJan/data-science-projects-python) : Python data science projects.
--  🌐 [AutomateGIS](https://github.com/ChanikaJan/AutomateGIS): A hands-on GIS automation project.
+-  🌐 [AutomateGIS](https://github.com/ChanikaJan/AutomateGIS): A hands-on and real project for automating various GIS analysis tasks.
 
 ## How to Reach Me 📨
 - 🌐 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/chanika-janlueng)
