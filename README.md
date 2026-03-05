@@ -42,10 +42,10 @@
 ## GitHub Stats ✨ 
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanikaJan&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanikaJan&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChanikaJan&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ChanikaJan&theme=radical&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanikaJan&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChanikaJan&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
