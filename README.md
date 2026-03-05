@@ -42,14 +42,7 @@
 ## GitHub Stats ✨ 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanikaJan&theme=github-compact&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ChanikaJan&theme=oceanic-next&hide_border=true" height="150"/> 
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChanikaJan&theme=radical&no-frame=true"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,html,css"/>
-</p>
 
