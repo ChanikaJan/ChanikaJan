@@ -42,7 +42,7 @@
 ## GitHub Stats ✨ 
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ChanikaJan&theme=oceanic-next&hide_border=true" height="150"/> 
+<img src="https://streak-stats.demolab.com?user=ChanikaJan&theme=neon-dark&hide_border=true" height="150"/> 
 </p>
 
 
