@@ -42,8 +42,8 @@
 ## GitHub Stats ✨ 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChanikaJan&show_icons=true&theme=radical" alt="ChanikaJan's GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanikaJan&theme=radical" alt="GitHub Streak" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanikaJan&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanikaJan&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
